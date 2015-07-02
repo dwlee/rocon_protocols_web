@@ -1,8 +1,2 @@
 rocon_apps:
   - "http://files.yujinrobot.com/rocon/rapp_repository/concert_common_rapps.tar.gz"
-  - "http://files.yujinrobot.com/rocon/rapp_repository/robosem_bridge.tar.gz"
-  - "http://files.yujinrobot.com/rocon/rapp_repository/rocon_ninja_block.tar.gz"
-  - "http://files.yujinrobot.com/rocon/rapp_repository/rocon_hue.tar.gz"
-  - "http://files.yujinrobot.com/rocon/rapp_repository/rocon_auto_door.tar.gz"
-  - "http://files.yujinrobot.com/rocon/rapp_repository/rocon_apps.index.tar.gz"
-  - "http://files.yujinrobot.com/rocon/rapp_repository/nao_rapp.index.tar.gz"
